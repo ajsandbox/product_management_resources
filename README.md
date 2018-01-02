@@ -14,10 +14,17 @@
 	* [The essentials of product management - Janna Bastow](https://www.slideshare.net/bastow/essentials-of-product-management-22477334)
 * Visioning 
 	* [We don't sell saddles here - Slack](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
-	* []()
+	* [Shareholder letter 1997 - Amazon](http://media.corporate-ir.net/media_files/irol/97/97664/reports/Shareholderletter97.pdf)
+	* [Tesla Motors Master Plan 2006 - Tesla](https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
+	* [Leadership principles - Amazon](https://www.amazon.jobs/principles)
+	* [ - Google] 
+* Strategy 
+* Design 
+* Execution 
+* Analytics 
+* Leadership
 * Mental models
 	* 
-
 
 -----------------
 
