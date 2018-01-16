@@ -10,7 +10,7 @@
 
 * The classics
 	* [The art of product management - Jackie Bavaro](https://pmblog.quora.com/)
-	* [Good product manager, bad product manager - Ben Horowitz](https://a16z.files.wordpress.com/2014/08/good-product-manager.pdf 
+	* [Good product manager, bad product manager - Ben Horowitz](https://a16z.files.wordpress.com/2014/08/good-product-manager.pdf)
 	* [How to hire a product manager - Ken Norton](https://www.kennorton.com/essays/productmanager.html)
 	* [Let's talk about product management - Josh Elman](https://news.greylock.com/let-s-talk-about-product-management-d7bc5606e0c4)
 	* [The essentials of product management - Janna Bastow](https://www.slideshare.net/bastow/essentials-of-product-management-22477334)
@@ -21,7 +21,7 @@
 
 ## Design resources 
 
-* Look at the folder on design and prototyping 
+* Look at the folder on design and prototyping [here](design_and_prototyping_resources/README.md)
 
 ## Books 
 
