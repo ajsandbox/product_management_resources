@@ -19,6 +19,10 @@
 * Mental models 
 
 
+## Design resources 
+
+* Look at the folder on design and prototyping 
+
 ## Books 
 
 * Project management and execution 
