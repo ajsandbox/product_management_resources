@@ -16,11 +16,16 @@
 		* http://www.lovelyui.com/
 		* http://unitid.nl/androidpatterns/
 		* http://androidux.com/ : Good for android
-	* UI Libararies 
-		* (Look at the ones that you most frequently use)
-		* Note : It is mostly worthwhile to buy a good sketch library. 
-		* Google Inbox : https://dribbble.com/shots/2834593-Google-Inbox-UI-free-sketch-template
-		* Dashboard UI Kit : https://dribbble.com/shots/3235687-Dashboard-UI-Kit-Update-Released
+	* Design principles and evaluation 
+		* [Google principles for mobile site design](https://www.thinkwithgoogle.com/_qs/documents/538/multi-screen-moblie-whitepaper_research-studies.pdf)
+		* [Google principles for mobile app design](https://www.thinkwithgoogle.com/marketing-resources/experience-design/principles-of-mobile-app-design-engage-users-and-drive-conversions/)
+		* [Google mobile UX Design](https://storage.googleapis.com/think-emea/docs/article/Mobile_App_UX_Principles.pdf)
+		* More resources based on design literature [here](design_evaluation/README.md)
+* UI Libararies 
+	* (Look at the ones that you most frequently use)
+	* Note : It is mostly worthwhile to buy a good sketch library. 
+	* Google Inbox : https://dribbble.com/shots/2834593-Google-Inbox-UI-free-sketch-template
+	* Dashboard UI Kit : https://dribbble.com/shots/3235687-Dashboard-UI-Kit-Update-Released
 * Design guidelines
 	* [Duolingo](https://www.duolingo.com/design/) : Very easy on the eyes
 	* [IBM Design Language](https://www.ibm.com/design/language/) : Very unlike traditional IBM
