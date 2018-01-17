@@ -21,7 +21,8 @@
 
 ## Design resources 
 
-* Look at the folder on design and prototyping [here](design_and_prototyping_resources/README.md)
+* My introduction to Design thinking : https://dschool.stanford.edu/resources/the-bootcamp-bootleg 
+* Look at the folder on design and prototyping [here](design_and_prototyping_resources/README.md) for much more details
 
 ## Books 
 
