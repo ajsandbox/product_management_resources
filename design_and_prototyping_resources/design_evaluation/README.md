@@ -2,6 +2,8 @@
 
 A look at the various design principles. Some of objective, some are subjective. 
 
+* https://medium.com/the-year-of-the-looking-glass/how-to-do-a-product-critique-98b657050638
+
 ### Dieter Ram's 10 design principles
 
 * **Good design is innovative** : The possibilities for innovation are not, by any means, exhausted. Technological development is always offering new opportunities for innovative design. But innovative design always develops in tandem with innovative technology, and can never be an end in itself.

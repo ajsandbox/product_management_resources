@@ -28,7 +28,10 @@
 		* More resources based on design literature [here](design_evaluation/README.md)
 * UI libraries and tools 
 	* Keynotopia (Since we are very well versed with Powerpoint)
-	* Balsamiq : https://balsamiq.com/
+	* Balsamiq
+		* https://balsamiq.com/
+		* Good library of templates from Balsamiq (Showcase) : https://wireframestogo.com/
+		* Balsamiq blog is a good resource too : https://blog.balsamiq.com/creating-polished-wireframes/
 	* (Look at the ones that you most frequently use)
 	* Note : It is mostly worthwhile to buy a good sketch library. 
 	* Google Inbox : https://dribbble.com/shots/2834593-Google-Inbox-UI-free-sketch-template
@@ -86,6 +89,7 @@
 	* [Mike Locke](https://www.youtube.com/user/mlwebco/videos)
 	* [Sarah Doody](https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/featured)
 	* [High resolution - Video series on Design](https://www.youtube.com/channel/UCzBkNPSxw15qrW_Y8p-oCUw/videos)
+* Font pairing : https://fontpair.co/
 
 
 
